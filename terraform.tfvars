@@ -7,5 +7,5 @@ resource_types                = []
 securityhub_standards_count   = 2
 securityhub_standards         = ["arn:aws:securityhub:ap-south-1::standards/cis-aws-foundations-benchmark/v/1.4.0", "arn:aws:securityhub:ap-south-1::standards/aws-foundational-security-best-practices/v/1.0.0"]
 subnet_ids                    = [""]
-vpc_id                        = ""
+vpc_id                        = "vpc-0faef19d3a95c9738"
 security_groups               = [""]
